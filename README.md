@@ -1,9 +1,9 @@
 # PROFESSIONAL TRACK INFO
 
-Student Name: 
+Student Name: Gedion Teshome
 
-Track Name: 
+Track Name: Backend engineering using NodeJs
 
-Track Description: 
+Track Description: API development
 
 ![MSD Logo](assets/logo-small.png "MSD Logo") 
